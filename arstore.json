@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Aero Browser",
+    "Version": "1.0.4",
+    "Publisher": "AR Labs",
+    "Description": "A lightweight, high-speed browser built for the AR ecosystem. Features hardware acceleration and native .APPX support.",
+    "FileName": "AeroBrowser.appx",
+    "AppxUrl": "https://your-storage-site.com/files/AeroBrowser.appx"
+  },
+  {
+    "Name": "Neural Studio",
+    "Version": "0.9.2",
+    "Publisher": "Quantum Soft",
+    "Description": "Professional code editor with built-in AI assistance. Optimizes your workflow for low-latency environments.",
+    "FileName": "NeuralStudio.appx",
+    "AppxUrl": "https://your-storage-site.com/files/NeuralStudio.appx"
+  }
+]
