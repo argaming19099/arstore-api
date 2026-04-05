@@ -1,10 +1,10 @@
 [
   {
-    "Name": "Test",
-    "Version": "Test",
-    "Publisher": "Test",
+    "Name": "Python",
+    "Version": "3.8.10",
+    "Publisher": "Python Software Foundation",
     "Description": "API Systen for testing purposes. will be replaced with working code soon.",
-    "FileName": "AeroBrowser.appx",
-    "AppxUrl": "https://your-storage-site.com/files/AeroBrowser.appx"
+    "FileName": "Python.exe",
+    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
   }
 ]
