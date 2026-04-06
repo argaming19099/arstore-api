@@ -22,2190 +22,474 @@
     "Description": "[NO DESCRIPTION]",
     "FileName": "YTInstaller.exe",
     "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-  }{
-    "Name": "Python",
-    "Version": "3.8.10",
-    "Publisher": "Python Software Foundation",
-    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
-  },
-  {
-    "Name": "Google app for Windows",
-    "Version": "Beta",
-    "Publisher": "Google LLC",
-    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
-    "FileName": "GoogleApp.exe",
-    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
-  },
-   {
-    "Name": "YouTube",
-    "Version": "1.0",
-    "Publisher": "ytdesktop",
-    "Description": "[NO DESCRIPTION]",
-    "FileName": "YTInstaller.exe",
-    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
   }
+    "Description": "Python is a launguage designed for beginners and is highly flexible with any OS.",
+    "FileName": "Python.exe",
+    "AppxUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe"
+  },
+  {
+    "Name": "Google app for Windows",
+    "Version": "Beta",
+    "Publisher": "Google LLC",
+    "Description": "Search anything with the Google app. Built for Windows, made by Google. Quickly access this app with a keyboard shortcut (Alt + Space) to find what you need—information from the web, Google Drive files, installed apps, and files saved on your computer. With Google Lens built into the app, you can select and search anything on your screen at any time, making it easy to translate images or text, get help from AI Mode to solve homework problems, and more.",
+    "FileName": "GoogleApp.exe",
+    "AppxUrl": "https://dl.google.com/tag/s/appguid%3D%7B06A8089E-0B65-445D-B5C4-10B0D1B540F2%7D%26iid%3D%7B3D1AB713-077C-3D0B-270E-4EC976E8AE63%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520App%26needsadmin%3DFalse%26ap%3Dperuser/windows-google-app/GoogleAppInstaller.exe"
+  },
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+         {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     },
+      
+   {
+    "Name": "YouTube",
+    "Version": "1.0",
+    "Publisher": "ytdesktop",
+    "Description": "[NO DESCRIPTION]",
+    "FileName": "YTInstaller.exe",
+    "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
+     }
 ]
