@@ -1,11 +1,11 @@
 [
   {
     "Name": "Python",
-    "Version": "3.12.2",
+    "Version": "3.13.3",
     "Publisher": "Python Software Foundation",
     "Description": "Python is a language designed for beginners and is highly flexible with any OS.",
     "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
+    "AppxUrl": "https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe"
   },
   {
     "Name": "Google app for Windows",
