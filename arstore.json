@@ -22,5 +22,13 @@
     "Description": "[NO DESCRIPTION]",
     "FileName": "YTInstaller.exe",
     "AppxUrl": "https://new-downloads.ytdesktop.com/1.0.0/windows-x64-setup.exe"
-   }
+   },
+  {
+    "Name": "AR Browse",
+    "Version": "1.0.3.0",
+    "Publisher": "Google LLC",
+    "Description": "A Simple browser built with Chromium",
+    "FileName": "ARBrowse.exe",
+    "AppxUrl": "https://github.com/argaming19099/AR-Browse/releases/download/v1.0.3/ARBrose_Setup_v1.0.3.exe"
+  }
 ]
