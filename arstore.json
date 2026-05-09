@@ -25,10 +25,10 @@
    },
   {
     "Name": "AR Browse",
-    "Version": "1.0.3.0",
-    "Publisher": "Google LLC",
+    "Version": "1.0.4.0",
+    "Publisher": "ARTechnologies",
     "Description": "A Simple browser built with Chromium",
     "FileName": "ARBrowse.exe",
-    "AppxUrl": "https://github.com/argaming19099/AR-Browse/releases/download/v1.0.3/ARBrose_Setup_v1.0.3.exe"
+    "AppxUrl": "https://github.com/argaming19099/AR-Browse/releases/download/v1.0.4/ARBrowseSetup_v1.0.4.exe"
   }
 ]
