@@ -1,10 +1,7 @@
 [
   {
     "Name": "PLEASE UPDATE YOUR AR STORE APP VERSION",
-    "Version": "3.13.3",
     "Publisher": "Python Software Foundation",
-    "Description": "Your version of AR Store is old. please update your app to keep full functionality. the api link will be changed to a new link. visit artechnologies.neocities.org to download the latest version to keep app functionality. the old version will not able to view any app except this message. please update.",
-    "FileName": "Python.exe",
-    "AppxUrl": "https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe"
+    "Description": "Your version of AR Store is old. please update your app to keep full functionality. the api link will be changed to a new link. visit artechnologies.neocities.org to download the latest version to keep app functionality. the old version will not able to view any app except this message. please update."
   }
 ]
